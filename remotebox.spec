@@ -20,6 +20,7 @@ Requires:	perl-Gtk2
 Suggests:	VirtualBox >= 4.2
 Suggests:	VirtualBox-Extension-Pack
 Suggests:	rdesktop
+Suggests:	xdg-open
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
