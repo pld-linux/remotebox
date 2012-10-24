@@ -9,7 +9,7 @@ Summary:	Open Source VirtualBox Client with Remote Management
 Name:		remotebox
 Version:	1.4
 Release:	1
-License:	GPL
+License:	GPL v2+
 Group:		Daemons
 URL:		http://remotebox.knobgoblin.org.uk/
 Source0:	http://remotebox.knobgoblin.org.uk/downloads/RemoteBox-%{version}.tar.bz2
