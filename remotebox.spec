@@ -4,7 +4,6 @@
 # NOTE
 # - on server you need virtualbox and virtualbox extension pack (for rdp and
 #   pxe boot) installed
-%include	/usr/lib/rpm/macros.perl
 Summary:	Open Source VirtualBox Client with Remote Management
 Name:		remotebox
 Version:	1.4
